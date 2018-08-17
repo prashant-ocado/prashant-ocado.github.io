@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up blog site using github pages!"
-date:   2018-08-17 12:16:01 +0100
+date:   "2018-08-17"
 categories: first blog
 ---
 Setting up a github page is not very difficult. Simply follow instructions on https://pages.github.com/.
